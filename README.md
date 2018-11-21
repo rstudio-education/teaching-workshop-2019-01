@@ -5,7 +5,7 @@ Copyright 2019, RStudio Inc. All material made available under the [Creative Com
 ## Contributors:
 
 - Mine Çetinkaya-Rundel
-- Garrett Grolemun
+- Garrett Grolemund
 - Greg Wilson
 
 Please see <https://github.com/rstudio-education/teach-the-tidyverse> for the original.
@@ -16,7 +16,7 @@ Please see <https://github.com/rstudio-education/teach-the-tidyverse> for the or
 1.  Getting Started (0:15/09:15)
 
 1.  Two Ways to Teach (0:45/10:00)
-    -   10-two-ways-to-teach.key
+    -   01-two-ways-to-teach.key
     -   Introductions
     -   Comparison with movie/play (add comedy improv)
     -   Tell participants there's lots of research (much of which people don't know/act on)
