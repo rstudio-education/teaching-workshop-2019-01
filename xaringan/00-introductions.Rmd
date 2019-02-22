@@ -4,6 +4,7 @@ subtitle: "Introductions"
 date: "February 2019"
 output:
   xaringan::moon_reader:
+    seal: false
     lib_dir: libs
     nature:
       titleSlideClass: ["center", "middle"]
@@ -18,25 +19,46 @@ options(htmltools.dir.version = FALSE)
 
 class: center, middle
 
-![Logo](img/brain-logo.png)
+# `r rmarkdown::metadata$title`
+
+## `r rmarkdown::metadata$subtitle`
+
+```{r echo = FALSE, out.width = '60%'}
+knitr::include_graphics("img/brain-logo.png")
+```
+
+### `r rmarkdown::metadata$date`
+
+
 
 ---
+class: center
 
 # Who We Are
 
+
 <img src="img/carl.png" width="25%" alt="Carl" />
 
-<img src="img/garrett.png" width="25%" alt="Garrett" />
-<img src="img/mine.png" width="25%" alt="Mine" />
+.pull-left[
 
-<img src="img/alison.png" width="25%" alt="Alison" />
-<img src="img/greg.png" width="25%" alt="Greg" />
+<img src="img/garrett.png" width="50%" alt="Garrett" />
+
+<img src="img/mine.png" width="50%" alt="Mine" />
+
+]
+
+.pull-right[
+
+<img src="img/alison.png" width="50%" alt="Alison" />
+
+<img src="img/greg.png" width="50%" alt="Greg" />
+]
 
 ---
 
 # Your Goals
 
 1. Write down two things you hope to get out of this workshop.
-2. Write down one thing about your own teaching practice that you think other people would find useful.
+1. Write down one thing about your own teaching practice that you think other people would find useful.
 
 Keep these somewhere safe - we will return to these points at the end of the day.
