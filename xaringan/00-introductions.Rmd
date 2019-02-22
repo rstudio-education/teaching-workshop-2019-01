@@ -1,0 +1,42 @@
+---
+title: "How to Teach All the Things"
+subtitle: "Introductions"
+date: "February 2019"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      titleSlideClass: ["center", "middle"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+
+![Logo](img/brain-logo.png)
+
+---
+
+# Who We Are
+
+<img src="img/carl.png" width="25%" alt="Carl" />
+
+<img src="img/garrett.png" width="25%" alt="Garrett" />
+<img src="img/mine.png" width="25%" alt="Mine" />
+
+<img src="img/alison.png" width="25%" alt="Alison" />
+<img src="img/greg.png" width="25%" alt="Greg" />
+
+---
+
+# Your Goals
+
+1. Write down two things you hope to get out of this workshop.
+2. Write down one thing about your own teaching practice that you think other people would find useful.
+
+Keep these somewhere safe - we will return to these points at the end of the day.
