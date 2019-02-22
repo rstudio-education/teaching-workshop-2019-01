@@ -7,7 +7,6 @@ output:
     seal: false
     lib_dir: libs
     nature:
-      titleSlideClass: ["center", "middle"]
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
@@ -29,7 +28,11 @@ knitr::include_graphics("img/brain-logo.png")
 
 ### `r rmarkdown::metadata$date`
 
+???
 
+Welcome to Teach the Tidyverse and anything else.
+We are going to spend today learning how to teach any subject effectively in a workshop format,
+and tomorrow applying those ideas to teaching the tidy verse and shiny.
 
 ---
 class: center
@@ -54,6 +57,11 @@ class: center
 <img src="img/greg.png" width="50%" alt="Greg" />
 ]
 
+???
+
+We are the RStudio Education team:
+Carl Howe, Hello, Mine Çetinkaya-Rundel, Garrett Grolemund, Alison Presmanes Hill, and Greg Wilson.
+
 ---
 
 # Your Goals
@@ -62,3 +70,10 @@ class: center
 1. Write down one thing about your own teaching practice that you think other people would find useful.
 
 Keep these somewhere safe - we will return to these points at the end of the day.
+
+???
+
+As our first exercise,
+please write down a couple of things you hope to get out of this workshop
+and one thing about your own teaching practice that you think other people would find useful.
+Hang onto these - we'll return to them at the end of the day.
