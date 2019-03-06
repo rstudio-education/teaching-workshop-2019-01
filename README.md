@@ -86,8 +86,3 @@ Please see <https://github.com/rstudio-education/teach-the-tidyverse> for the or
     -   Summarize what we have learned
     -   Gather open questions
     -   Remind participants of Day 2's agenda(s)
-
-## To Do
-
--   Expert blind spot (from 04-Make-It-Clear.key)
--   6-point pitch template ("for people who...")
